@@ -1,3 +1,4 @@
+[
 {
     "name": "Smash karts",
     "icon": "https://trefoilkingdom.com/uploads/games/42122/Smash-Karts.jpg",
@@ -82,22 +83,22 @@
       "feat": "free information\nadd information\nedit information"
     }
   }
-]
 {
-  "name": "Minecraft Working", // unique name (check if it has been used already in the file)
-  "icon": "https://raw.githubusercontent.com/andrewstech/windows11-1/master/public/img/icon/minecraft.png", // logo image, preferrably 1:1 and less than 128px of width
-  "type": "game", // game or app
+  "name": "Minecraft Working",
+  "icon": "https://raw.githubusercontent.com/andrewstech/windows11-1/master/public/img/icon/minecraft.png",
+  "type": "game", 
   "data": {
-    "type": "IFrame", // type currently supports IFrame only
-    "url": "https://sd592g.github.io/zj684od4lfg/", // url of the app and make sure they accept Iframe
+    "type": "IFrame", 
+    "url": "https://sd592g.github.io/zj684od4lfg/",
     "gallery": [
       // three or more images for gallery view in store app
       "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
       "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
       "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
     ],
-    "desc": "Minecraft is a sandbox construction video game where you can create, build, and craft to your hearts content.", // description for store app
-    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
-    "invert": true // when true it forces dark theme for game/app window, default is false.
+    "desc": "Minecraft is a sandbox construction video game where you can create, build, and craft to your hearts content.",
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.",
+    "invert": true
   }
 }
+]
